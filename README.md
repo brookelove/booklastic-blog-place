@@ -1,7 +1,7 @@
 # [Booklastic-Blog-Place](https://fathomless-bastion-58602.herokuapp.com/)
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
-
+A place where Bookies can Bond!
 ---
 ## Description
 
